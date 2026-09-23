@@ -17,7 +17,7 @@
 
 I build systems that sit at the intersection of **security**, **machine learning**, and **infrastructure resilience**. My work spans from kernel-level eBPF instrumentation to adversarial ML defense to production healthcare platforms — always with the same question: *"How does this break, and how do I prevent it?"*
 
-**Currently interested in:** Adversarial ML · Kernel Security · Cloud-Native Resilience · Zero-Trust Architecture
+**Currently interested in:** Application Security · Adversarial ML · Kernel Security · Cloud-Native Resilience · Zero-Trust Architecture
 
 ---
 
