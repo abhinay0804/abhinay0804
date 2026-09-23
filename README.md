@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=220&section=header&text=Nama%20Abhinay&fontSize=42&fontColor=58A6FF&fontAlignY=35&desc=Security%20Engineer%20%20%C2%B7%20%20Systems%20Builder%20%20%C2%B7%20%20ML%20Practitioner&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:6c5ce7,100:a855f7&height=220&section=header&text=Nama%20Abhinay&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%20%C2%B7%20%20Systems%20Builder%20%20%C2%B7%20%20ML%20Practitioner&descSize=16&descColor=e0e0e0&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- SOCIAL -->
 [![LinkedIn](https://img.shields.io/badge/-nama2-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nama2)&nbsp;&nbsp;
@@ -168,7 +168,7 @@ Modular **network reconnaissance** engine — TCP SYN scanner, OS fingerprinting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:6c5ce7,100:a855f7&height=100&section=footer" width="100%" />
 
 *"Build systems that are hard to break. Then try to break them anyway."*
 
